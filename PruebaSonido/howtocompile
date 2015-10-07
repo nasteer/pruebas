@@ -1,0 +1,1 @@
+g++ -std=gnu++11 prueba.cpp -o prueba -I/usr/local/include/YSE -lYSE -lsndfile -lportaudio -lboost_atomic
